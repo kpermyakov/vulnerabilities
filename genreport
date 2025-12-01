@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body SOAP-ENC:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<NS1:GenerateRegPaymentReport xmlns:NS1="urn:WSGetRegPaymentReportIntf-WSGetRegPaymentReport">
+<CustID xsi:type="xsd:int">200000234</CustID>
+<RecordID xsi:type="xsd:string">200000234_739575_2d7bb</RecordID>
+<RemoteUser xsi:type="xsd:string">200000234</RemoteUser>
+<BSErrorCode xsi:type="xsd:string"></BSErrorCode>
+<BSError xsi:type="xsd:string"></BSError>
+</NS1:GenerateRegPaymentReport>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
