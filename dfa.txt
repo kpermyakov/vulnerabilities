@@ -1,0 +1,95 @@
+{
+            "id": "4bfe3185-7708-479a-aa0c-6a5956be633e",
+            "user_id": "5dac8462-4326-43ee-ada4-39191b8fa792",
+            "version": 2,
+            "status": "IDENTIFICATION",
+            "profile_data": {
+                "profile_type": "INDIVIDUAL",
+                "personal_data": {
+                    "first_name": "Физик",
+                    "last_name": "Второй",
+                    "second_name": "Физиковичччч",
+                    "birthdate": "2014-05-12",
+                    "birthplace": "Москва",
+                    "citizenship": "RU",
+                    "registration_address": {
+                        "region": "Москва",
+                        "locality": "Москва",
+                        "street": "Вторая",
+                        "index": "222222",
+                        "house": "2"
+                    },
+                    "location_address": {
+                        "region": "Москва",
+                        "locality": "Москва",
+                        "street": "Вторая",
+                        "index": "222222",
+                        "house": "2"
+                    },
+                    "post_address": {
+                        "region": "Москва",
+                        "locality": "Москва",
+                        "street": "Вторая",
+                        "index": "222222",
+                        "house": "2"
+                    },
+                    "inn": "607782172997",
+                    "snils": "77660599565",
+                    "passport": {
+                        "series": "2222",
+                        "number": "643016",
+                        "issued_at": "2026-01-06",
+                        "issued_by": "111",
+                        "issuer_department_code": "777-777",
+                        "file_uuids": [
+                            "c476f4b9-e6c5-4b80-a706-735bb225f794"
+                        ]
+                    },
+                    "phones": [
+                        "7878789999"
+                    ],
+                    "emails": [
+                        "fiz2232323@mail.ru"
+                    ]
+                },
+                "public_official": {
+                    "type": "NONE",
+                    "beneficial_type": "MYSELF"
+                },
+                "entity_info": {
+                    "has_fatf_bank_account": false,
+                    "beneficiary_info": {
+                        "act_as_beneficiary": false
+                    },
+                    "management_info": {
+                        "is_manager": false
+                    },
+                    "terrorist_relative": {
+                        "is_relative": false
+                    }
+                },
+                "funding_and_planned_operations": {
+                    "planned_operations": "Операции с ЦФА",
+                    "business_relations_type": "LONG",
+                    "financial_activity_purpose": [],
+                    "financial_activity_purpose_custom": ""
+                },
+                "financial_information": {
+                    "file_uuids": []
+                },
+                "business_reputation": {},
+                "bank_account_details": {
+                    "bank_account": "13573456734567345734",
+                    "correspondent_account": "34567345734555555555",
+                    "bank_name": "Банк2",
+                    "bank_inn": "5025706220",
+                    "bank_kpp": "645745684",
+                    "bank_bik": "245734578"
+                },
+                "documents": []
+            },
+            "nominal_account_id": "28335b5d-d3a3-4298-acf7-ad071f7a7078",
+            "report_okato": "00",
+            "created_at": "2026-01-15T12:38:49.530135Z",
+            "updated_at": "2026-01-15T12:40:55.100105Z"
+        },
