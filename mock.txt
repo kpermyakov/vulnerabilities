@@ -1,0 +1,12 @@
+bankbumber = 5221481
+inn = 960173729680
+an = 45678978945215484512
+amount = 100
+
+status = Исполнен. Зачислен
+
+ String bankNumber = getCellString(row, 0);
+            String recipientInn = getCellString(row, 2);
+            String recipientAccount = getCellString(row, 3);
+            BigDecimal amount = getCellNumeric(row, 5);
+            String documentStatus = getCellString(row, 10)
